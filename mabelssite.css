@@ -65,7 +65,7 @@ hr.section-separator{
 }
 
 .jumbotron a{
-    color: #7300e6
+    color: #9296D1
 }
 
 .jumbotron .infolink {
@@ -74,7 +74,7 @@ hr.section-separator{
 }
 
 .jumbotron .purplelink {
-    color: #7300e6
+    color: #9296D1
 }
 
 .jumbotron .description{
@@ -97,7 +97,7 @@ a {
 }
  a:hover, a:focus{
      /*color:#974D56;*/
-     color:#7300e6;/*#993366;*/
+     color:#9296D1;/*#993366;*/
  	text-decoration: none;
  	font-weight:medium;
  }
@@ -106,7 +106,7 @@ a {
 /* Styles for the individual rows and items */
 
 .text {
-        color:#7300e6;/*#9B9B9B;*/
+        color:#9296D1;/*#9B9B9B;*/
         font-weight:"medium";
 }
 
