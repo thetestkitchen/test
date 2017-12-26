@@ -15,7 +15,7 @@ body {
 
 .navbar-header .navbar-brand {
 	font-size: 30pt;
-    color:#7300e6;/*#000000;*/
+    color:#9296D1;/*#000000;*/
 }
 
 .navbar-header .navbar-subbrand{
@@ -30,13 +30,13 @@ hr.section-separator{
 	min-width: 100%;
 	margin-top:15px !important;
 	margin-bottom:0.5px !important;
-    box-shadow: 0px 0px 0px #7300e6;/*#979797;*/
+    box-shadow: 0px 0px 0px #9296D1;/*#979797;*/
 }
 
 /* style for active menu item on navbar */
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
 	background-color:white;
-    color:#7300e6;/*#974D56;*/
+    color:#9296D1;/*#974D56;*/
 	padding: 15px 15px 3px 15px;
 	box-shadow: 0px 2px 0px;
 	-webkit-transition:200ms ease;
